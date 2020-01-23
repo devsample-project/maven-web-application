@@ -96,8 +96,8 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>admin</name>
+	      <id>admin</id>
+	      <name>password</name>
 	      <url>http://13.232.155.173:8081/repository/amazon/</url>
 	    </repository>
 	    
