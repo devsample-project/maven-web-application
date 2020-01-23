@@ -104,8 +104,8 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://13.232.155.173:8081/repository/flipkart/</url>
-	    </snapshotRepository>
+	      <url>http://13.232.155.173:8081/repository/flipkart/</url
+	      </snapshotRepository>
 	    
 	</distributionManagement>
 	
